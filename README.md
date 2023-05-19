@@ -54,8 +54,8 @@ model2.fit(x=X, y=ohy, epochs=30)
 ```
 
 ## Metrics
-![Accuracy](sources/accuracy.png)
-![Loss](sources/loss.png)
+![Accuracy](resources/accuracy.png)
+![Loss](resources/loss.png)
 
 ## Notes
  - Currently: 
